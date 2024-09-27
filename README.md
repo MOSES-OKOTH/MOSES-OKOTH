@@ -1,7 +1,7 @@
 # About Me
 - 👋 Hi, I’m @MOSES-OKOTH
 - 👀 I’m interested in Web development, Android Development, Desktop development and IoT
-- 🌱 I’m currently learning Bachelor of Science in Mathematics and Computer Science at the Technical University of Mombasa.
+- 🌱 I’m a graduate from the Technical University of Mombasa where I earned my Bachelor's in Mathematics and Computer Science at the Technical University of Mombasa.
 - 💞️ I’m looking to collaborate on any project the lies within my career path
 - 📫 Contacts:
 
