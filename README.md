@@ -36,3 +36,13 @@ I am super interested in:
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 <!-- ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)&nbsp; -->
+
+<br>
+
+## Connect with Me
+<p align = "center">
+
+  [<img src="https://img.shields.io/badge/X%20(Twitter)-%2312100E.svg?&style=for-the-badge&logo=x&logoColor=white&color=black" />](https://www.x.com/ASmartkid)
+  [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white&color=blue" />](https://www.linkedin.com/in/moses-okoth-3a0b32233/)
+  [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=orange" />](https://instagram.com/Ace_K3)
+</p>
