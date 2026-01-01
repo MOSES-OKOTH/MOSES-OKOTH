@@ -1,5 +1,5 @@
 ## About Me
-A graduate from the Technical University of Mombasa, Bsc. Mathematics and Computer Science (Applied Mathematics Option), and a seasoned Software Engineer dedicated to offerring robust solutions to real-world problems through technological invention and innovation.<br>
+A graduate from the Technical University of Mombasa, BSc. Mathematics and Computer Science (Applied Mathematics Option), and a seasoned Software Engineer dedicated to offering robust solutions to real-world problems through technological invention and innovation.<br>
 I am super interested in:
 - Web Applications 🌐
 - Multi-Platform Mobile Applications 📱
